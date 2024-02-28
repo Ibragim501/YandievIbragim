@@ -1,0 +1,94 @@
+html{
+    background-image:url(Picthures/1641742212_20-www-funnyart-club-p-foni-pod-staruyu-bumagu-22.jpg)
+}
+
+#a{
+    text-decoration: none;
+    color:white;
+    padding-right: 5px;
+    padding-left: 5px;
+    background-color:rgb(126, 52, 0);
+    border-radius: 5px;
+    width:auto;
+    position: absolute;
+    left: 90px;
+    top: 10px;
+
+}
+
+#b{
+    text-decoration: none;
+    color:white;
+    padding-right: 5px;
+    padding-left: 5px;
+    background-color: rgb(126, 52, 0);
+    border-radius: 5px;
+    width:auto;
+    position: absolute;
+    right: 640px;
+    top: 10px;
+
+}
+
+#c{
+    text-decoration: none;
+    color:white;
+    padding-right: 5px;
+    padding-left: 5px;
+    background-color: rgb(126, 52, 0);
+    border-radius: 5px;
+    width:auto;
+    position: absolute;
+    right: 100px;
+    top: 10px;
+
+}
+
+#d{
+    text-decoration: none;
+    color:white;
+    padding-right: 5px;
+    padding-left: 5px;
+    background-color: rgb(126, 52, 0);
+    border-radius: 5px;
+    width:auto;
+    position: absolute;
+    left: 90px;
+    top: 800px;
+}
+
+#e{
+    text-decoration: none;
+    color:white;
+    padding-right: 5px;
+    padding-left: 5px;
+    background-color: rgb(126, 52, 0);
+    border-radius: 5px;
+    width:auto;
+    position: absolute;
+    right: 640px;
+    top: 800px;
+}
+
+#f{
+    text-decoration: none;
+    color:white;
+    padding-right: 5px;
+    padding-left: 5px;
+    background-color: rgb(126, 52, 0);
+    border-radius: 5px;
+    width:auto;
+    position: absolute;
+    right: 100px;
+    top: 800px;
+
+}
+
+.ninethee{
+    border-radius:50px;
+    position:absolute;
+    height: 700px;
+    width: 900px;
+    top:50px;
+    left:280px
+}

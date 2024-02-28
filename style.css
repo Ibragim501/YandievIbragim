@@ -1,0 +1,347 @@
+html{
+    background-image:url(Picthures/1641742212_20-www-funnyart-club-p-foni-pod-staruyu-bumagu-22.jpg)
+}
+
+.fon{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    width: 30%;
+}
+
+h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: black;
+    border-radius:50px;
+}
+
+h3{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    color:black;
+    position: absolute;
+    bottom:10px;
+    top: 470px
+
+}
+
+#a{
+    text-decoration: none;
+    color:white;
+    padding-right: 5px;
+    padding-left: 5px;
+    background-color:rgb(58, 189, 58);
+    border-radius: 5px;
+    width:auto;
+    position: absolute;
+    left: 90px;
+    top: 560px;
+
+}
+
+#b{
+    text-decoration: none;
+    color:white;
+    padding-right: 5px;
+    padding-left: 5px;
+    background-color:rgb(58, 189, 58);
+    border-radius: 5px;
+    width:auto;
+    position: absolute;
+    right: 640px;
+    top: 560px;
+
+}
+
+#c{
+    text-decoration: none;
+    color:white;
+    padding-right: 5px;
+    padding-left: 5px;
+    background-color:rgb(58, 189, 58);
+    border-radius: 5px;
+    width:auto;
+    position: absolute;
+    right: 100px;
+    top: 560px;
+
+}
+
+#d{
+    text-decoration: none;
+    color:white;
+    padding-right: 5px;
+    padding-left: 5px;
+    background-color:rgb(58, 189, 58);
+    border-radius: 5px;
+    width:auto;
+    position: absolute;
+    left: 90px;
+    top: 3750px;
+}
+
+#e{
+    text-decoration: none;
+    color:white;
+    padding-right: 5px;
+    padding-left: 5px;
+    background-color:rgb(58, 189, 58);
+    border-radius: 5px;
+    width:auto;
+    position: absolute;
+    right: 640px;
+    top: 3750px;
+}
+
+#f{
+    text-decoration: none;
+    color:white;
+    padding-right: 5px;
+    padding-left: 5px;
+    background-color:rgb(58, 189, 58);
+    border-radius: 5px;
+    width:auto;
+    position: absolute;
+    right: 100px;
+    top: 3750px;
+
+}
+
+.okean{
+    font-family: "Dancing Script", cursive;                                    
+    font-optical-sizing: auto;                                               
+    font-weight: weight;
+    font-style: normal;
+    text-align: center;
+    position: absolute;
+    top: 650px;
+    right: 660px;
+}
+
+.krepost{     
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;/*                                                 ====>ocean */
+    text-align: center;
+    position: absolute;
+    top: 1250px;
+    left: 100px;
+}
+
+.korabl{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    text-align: center;
+    position: absolute;
+    top: 1250px;
+    right: 585px;
+}
+
+.ruiny{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    text-align: center;
+    position: absolute;
+    top: 1250px;
+    right: 100px;
+}
+
+.les{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    text-align: center;
+    position: absolute;
+    top: 1570px;
+    right: 660px;
+}
+
+.osobnyak{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;/*                                                 ====>ocean */
+    text-align: center;
+    position: absolute;
+    top: 2180px;
+    left: 230px;
+}
+
+.avanpost{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    text-align: center;
+    position: absolute;
+    top: 2180px;
+    right: 180px;
+}
+
+.pustynya{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    text-align: center;
+    position: absolute;
+    top: 2650px;
+    right: 640px;
+}
+
+.hram{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;/*                                                 ====>ocean */
+    text-align: center;
+    position: absolute;
+    top: 3270px;
+    left: 220px;
+}
+
+.kolodec{
+    font-family: "Dancing Script", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+    text-align: center;
+    position: absolute;
+    top: 3270px;
+    right: 240px;
+}
+
+.one{
+    height:450px;
+    width: 700px;
+    position: absolute;
+    right: 355px;
+    top: 720px;
+    border: 5px solid rgb(0, 151, 185);
+    border-radius:25px;
+}
+
+.two{
+    height:180px;
+    width: 400px;
+    position: absolute;
+    right: 355px;
+    top: 1330px;
+    left:20px;
+    border: 5px solid rgb(0, 151, 185);
+    border-radius:25px;
+}
+
+.three{
+    height:180px;
+    width: 400px;
+    position: absolute;
+    right: 355px;
+    top: 1330px;
+    right: 500px;
+    border: 5px solid rgb(0, 151, 185);
+    border-radius:25px;
+}
+
+.four{
+    height:180px;
+    width: 400px;
+    position: absolute;
+    right: 355px;
+    top: 1330px;
+    right: 10px;
+    border: 5px solid rgb(0, 151, 185);
+    border-radius:25px;
+}
+
+.five{
+    height:450px;
+    width: 700px;
+    position: absolute;
+    right: 330px;
+    top: 1650px;
+    border: 5px solid green;
+    border-radius:25px;
+}
+
+.six{
+    height:310px;
+    width: 600px;
+    position: absolute;
+    right: 355px;
+    top: 2250px;
+    left:20px;
+    border: 5px solid green;
+    border-radius:25px;
+}
+
+.seven{
+    height: 310px;
+    width: 600px;
+    position: absolute;
+    right: 355px;
+    top: 2250px;
+    right: 10px;
+    border: 5px solid green;
+    border-radius:25px;
+}
+
+.eight{
+    height:450px;
+    width: 700px;
+    position: absolute;
+    right: 330px;
+    top: 2730px;
+    border: 5px solid rgb(163, 163, 0);
+    border-radius:25px;
+}
+
+.nine{
+    height:310px;
+    width: 600px;
+    position: absolute;
+    right: 355px;
+    top: 3350px;
+    left:20px;
+    border: 5px solid rgb(163, 163, 0);
+    border-radius:25px;
+}
+
+.ten{
+    height: 310px;
+    width: 600px;
+    position: absolute;
+    right: 355px;
+    top: 3350px;
+    right: 10px;
+    border: 5px solid rgb(163, 163, 0);
+    border-radius:25px;
+}
+
+.one1{
+    top:1180px;
+    position: absolute;
+    right:550px;
+}
+
+.two2{
+    top: 2100px;
+    position: absolute;
+    right:550px;
+}
+
+.three3{
+    top: 3200px;
+    position: absolute;
+    right:550px;
+}
